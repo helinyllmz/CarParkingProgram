@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    
     int t = 0;
     int b = 0;
     int c = 0;
